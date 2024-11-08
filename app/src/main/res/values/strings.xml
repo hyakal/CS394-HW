@@ -1,0 +1,177 @@
+<resources>
+    <string name="app_name">homework</string>
+
+    <string-array name="family_name_array">
+        <item>Onagraceae</item>
+        <item>Leskeaceae</item>
+        <item>Rosaceae</item>
+        <item>Brassicaceae</item>
+        <item>Anthocerotaceae</item>
+        <item>Cactaceae</item>
+        <item>Liliaceae</item>
+        <item>Brassicaceae</item>
+        <item>Polemoniaceae</item>
+        <item>Teloschistaceae</item>
+        <item>Lamiaceae</item>
+        <item>Asteraceae</item>
+        <item>Saxifragaceae</item>
+        <item>Fabaceae</item>
+        <item>Orthotrichaceae</item>
+        <item>Asteraceae</item>
+        <item>Fabaceae</item>
+        <item>Aquifoliaceae</item>
+        <item>Asteraceae</item>
+        <item>Aspleniaceae</item>
+        <item>Mycocaliciaceae</item>
+        <item>Fabaceae</item>
+        <item>Amaranthaceae</item>
+        <item>Poaceae</item>
+        <item>Caricaceae</item>
+        <item>Caryophyllaceae</item>
+        <item>Gunneraceae</item>
+        <item>Acarosporaceae</item>
+        <item>Bignoniaceae</item>
+        <item>Fontinalaceae</item>
+        <item>Boraginaceae</item>
+        <item>Brassicaceae</item>
+        <item>Brassicaceae</item>
+        <item>Rosaceae</item>
+        <item>Poaceae</item>
+        <item>Lecideaceae</item>
+        <item>Lecanoraceae</item>
+        <item>Lauraceae</item>
+        <item>Lamiaceae</item>
+        <item>Poaceae</item>
+    </string-array>
+
+    <string-array name="plant_name_array">
+        <item>Lewis Clarkia</item>
+        <item>Pseudoleskea Moss</item>
+        <item>Smallpetal Cinquefoil</item>
+        <item>Bristly Jewelflower</item>
+        <item>Pearsons Phaeoceros</item>
+        <item>Glory Of Texas</item>
+        <item>Striped Abobe Lily</item>
+        <item>Alaska Draba</item>
+        <item>Carpet Phlox</item>
+        <item>Jungermanns Orange Lichen</item>
+        <item>Hummingbird Sage</item>
+        <item>Gila Rockdaisy</item>
+        <item>Jepsonia</item>
+        <item>Miniature Lupine</item>
+        <item>Orthotrichum Moss</item>
+        <item>Carrs Rattlesnakeroot</item>
+        <item>Kidneywood</item>
+        <item>Mountain Holly</item>
+        <item>Huisache Daisy</item>
+        <item>Diamond Spleenwort</item>
+        <item>Stenocybe Lichen</item>
+        <item>Inyo Lupine</item>
+        <item>Foxtail Amaranth</item>
+        <item>Rescuegrass</item>
+        <item>Jarilla</item>
+        <item>Bridges Catchfly</item>
+        <item>Gunnera</item>
+        <item>Cracked Lichen</item>
+        <item>Withe</item>
+        <item>Brachelyma Moss</item>
+        <item>Nevada Cryptantha</item>
+        <item>Greenland Northern Rockcress</item>
+        <item>Johnsons False Candytuft</item>
+        <item>Pinewoods Horkelia</item>
+        <item>Timothy</item>
+        <item>Manns Lecidea Lichen</item>
+        <item>Rim Lichen</item>
+        <item>California Laurel</item>
+        <item>Southern Monardella</item>
+        <item>Tender Lovegrass</item>
+    </string-array>
+
+    <string-array name="plant_scientific_name_array">
+        <item>Clarkia lewisii P.H. Raven &amp; Parnell</item>
+        <item>Pseudoleskea incurvata (Hedw.) Loeske var. incurvata</item>
+        <item>Potentilla glandulosa Lindl. ssp. micropetala (Rydb.) D.D. Keck</item>
+        <item>Streptanthus glandulosus Hook.</item>
+        <item>Phaeoceros pearsonii (M. Howe) Prosk.</item>
+        <item>Thelocactus bicolor (Galeotti ex N.E. Pfeiffer) Britton &amp; Rose var. flavidispinus Backeb.</item>
+        <item>Fritillaria striata Eastw.</item>
+        <item>Draba stenoloba Ledeb. var. ramosa C.L. Hitchc.</item>
+        <item>Phlox hoodii Richardson ssp. canescens (Torr. &amp; A. Gray) Wherry</item>
+        <item>Caloplaca jungermanniae (Vahl) Th. Fr.</item>
+        <item>Salvia spathacea Greene</item>
+        <item>Perityle gilensis (M.E. Jones) J.F. Macbr.</item>
+        <item>Jepsonia Small</item>
+        <item>Lupinus bicolor Lindl. ssp. bicolor</item>
+        <item>Orthotrichum pusillum Mitt.</item>
+        <item>Prenanthes carrii Singhurst, O Kennon &amp; W.C. Holmes</item>
+        <item>Eysenhardtia Kunth</item>
+        <item>Ilex montana Torr. &amp; A. Gray ex A. Gray</item>
+        <item>Amblyolepis setigera DC.</item>
+        <item>Asplenium rhomboideum Brack.</item>
+        <item>Stenocybe tremulicola Norrlin ex Nyl.</item>
+        <item>Lupinus ×inyoensis A. Heller (pro sp.)</item>
+        <item>Amaranthus caudatus L.</item>
+        <item>Bromus catharticus Vahl</item>
+        <item>Jarilla heterophylla (Cerv. ex Llave) Rusby</item>
+        <item>Silene bridgesii Rohrb.</item>
+        <item>Gunnera L.</item>
+        <item>Acarospora peltastica Zahlbr.</item>
+        <item>Cydista Miers</item>
+        <item>Brachelyma subulatum (P. Beauv.) Schimp. ex Cardot</item>
+        <item>Cryptantha nevadensis A. Nelson &amp; Kennedy var. nevadensis</item>
+        <item>Braya thorild-wulffii Ostenf.</item>
+        <item>Smelowskia johnsonii G. Mulligan</item>
+        <item>Horkelia fusca Lindl.</item>
+        <item>Phleum L.</item>
+        <item>Lecidea mannii Tuck.</item>
+        <item>Lecanora populicola (DC.) Duby</item>
+        <item>Umbellularia californica (Hook. &amp; Arn.) Nutt. var. californica</item>
+        <item>Monardella australis Abrams</item>
+        <item>Eragrostis scaligera Salzm. ex Steud.</item>
+    </string-array>
+
+    <string-array name="plant_info_array">
+        <item>A flowering plant found in North America, known for its vibrant pink flowers.</item>
+        <item>A moss species commonly found on moist, shaded forest floors.</item>
+        <item>A low-growing herb with small flowers, found in mountainous regions.</item>
+        <item>An endemic plant with small flowers, often found in rocky, dry areas.</item>
+        <item>A type of hornwort, thriving in wet habitats like ponds and streams.</item>
+        <item>A type of cactus with bright pink or yellow flowers, native to Texas.</item>
+        <item>A rare lily with striped petals, primarily found in California.</item>
+        <item>A small, hardy flowering plant adapted to cold regions, like Alaska.</item>
+        <item>A low-growing phlox plant that spreads across sandy soils.</item>
+        <item>A brightly colored lichen often found on tree bark in moist climates.</item>
+        <item>An aromatic sage plant that attracts hummingbirds with its bright flowers.</item>
+        <item>A small daisy native to rocky areas in the Gila Mountains.</item>
+        <item>A perennial herb with rosette leaves, native to California.</item>
+        <item>A small, low-growing lupine with beautiful purple flowers.</item>
+        <item>A moss that forms cushion-like mats on rocks and tree trunks.</item>
+        <item>A unique plant with rattlesnake-like roots, adapted to dry soils.</item>
+        <item>A shrubby legume, sometimes used in traditional medicine.</item>
+        <item>A holly plant found in mountainous regions, with red berries.</item>
+        <item>A daisy known for its resilience and bright yellow flowers.</item>
+        <item>A type of spleenwort fern with diamond-shaped leaves.</item>
+        <item>A small lichen commonly found on dead wood or tree bark.</item>
+        <item>A hybrid lupine found in desert regions, notable for its color.</item>
+        <item>An ornamental amaranth with drooping, red flower spikes.</item>
+        <item>A type of grass used for grazing, originally from South America.</item>
+        <item>A small tree with papaya-like fruits, found in tropical regions.</item>
+        <item>A flowering catchfly plant with white to pink blooms.</item>
+        <item>A genus of large plants found in moist environments.</item>
+        <item>A lichen with a crusty, cracked surface, found on exposed rocks.</item>
+        <item>A woody vine from tropical regions, used for decorative purposes.</item>
+        <item>A moss found in fast-moving streams and rivers.</item>
+        <item>A cryptantha plant native to Nevada, with hairy leaves.</item>
+        <item>A hardy, cold-adapted plant found in Greenland.</item>
+        <item>A rare candytuft species, mainly found in mountainous regions.</item>
+        <item>A perennial herb found in pine forests, with white flowers.</item>
+        <item>A common grass used in pastures, known as hay or forage grass.</item>
+        <item>A crustose lichen found on acidic rocks, with black fruiting bodies.</item>
+        <item>A lichen often found on tree bark, with a pale, cracked appearance.</item>
+        <item>A large, aromatic tree with bay leaves, native to California.</item>
+        <item>An aromatic herb from the mint family, found in southern areas.</item>
+        <item>A grass species, often used as a decorative or forage plant.</item>
+    </string-array>
+
+
+</resources>
